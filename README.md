@@ -1,4 +1,4 @@
-# hello-world
+# hello-github
 Demo repository to learn GitHub
 
 #This is a heading
